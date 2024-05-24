@@ -1,2 +1,2 @@
 # droste
-Project page for ./kkofu.github.io
+Project page to [/kkofu.github.io/droste](https://kkofu.github.io/droste)
