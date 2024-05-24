@@ -1,2 +1,2 @@
 # droste
-github pages
+Project page for ./kkofu.github.io
